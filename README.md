@@ -1,7 +1,7 @@
 # projetmusculation
-Projet Musculation (pour le calcul de force)
+Projet Musculation (pour le calcul de force et besoin calorique)
 
-Objectif faire un outil pour le calcul rapide des Répétitions maximales théoriques.
+Objectif faire un outil pour le calcul rapide des Répétitions maximales théoriques ainsi que connaître les besoins nutritionnels.
 
 
 Le projet de musculation en Python vise à créer un outil pratique pour la musculation afin de calculer la 1 RM (Répétition Maximale) théorique et de déterminer son niveau de force en fonction de sa 1 RM.
